@@ -1,0 +1,11 @@
+.hero-dot {
+   width: 15px;
+   height: 15px;
+   background-color: #fff;
+   border-radius: 7.5px;
+   cursor: pointer;
+}
+
+.hero-dot.orange {
+   background: orangered;
+}
